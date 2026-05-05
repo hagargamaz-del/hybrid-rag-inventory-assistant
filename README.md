@@ -84,12 +84,7 @@ Structured Results                    Document Chunks
 
 ### Streamlit Chatbot
 
-![Streamlit Chatbot](screenshots/streamlit_chatbot.png)
+<img width="1199" height="683" alt="Screenshot 2026-05-05 162829" src="https://github.com/user-attachments/assets/1c4474d3-b334-4394-a1bf-11a802521544" />
+<img width="1371" height="796" alt="Screenshot 2026-05-05 162811" src="https://github.com/user-attachments/assets/81d11d52-5f2a-46d9-9c2b-2166645d54b8" />
 
-### FastAPI Documentation
 
-![FastAPI Docs](screenshots/api_docs.png)
-
-### RAG Evaluation Results
-
-![Evaluation Results](screenshots/evaluation_results.png)
