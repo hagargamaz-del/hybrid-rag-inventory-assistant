@@ -1,0 +1,81 @@
+customer_id,customer_name,city,segment
+1,Customer 1,Mansoura,Small Business
+2,Customer 2,Mansoura,Retail
+3,Customer 3,Giza,Retail
+4,Customer 4,Cairo,Corporate
+5,Customer 5,Cairo,Small Business
+6,Customer 6,Tanta,Retail
+7,Customer 7,Tanta,Retail
+8,Customer 8,Cairo,Retail
+9,Customer 9,Zagazig,Small Business
+10,Customer 10,Cairo,Retail
+11,Customer 11,Cairo,Retail
+12,Customer 12,Assiut,Corporate
+13,Customer 13,Cairo,Small Business
+14,Customer 14,Giza,Corporate
+15,Customer 15,Zagazig,Corporate
+16,Customer 16,Giza,Small Business
+17,Customer 17,Giza,Small Business
+18,Customer 18,Tanta,Small Business
+19,Customer 19,Mansoura,Retail
+20,Customer 20,Assiut,Corporate
+21,Customer 21,Assiut,Corporate
+22,Customer 22,Giza,Retail
+23,Customer 23,Cairo,Small Business
+24,Customer 24,Mansoura,Corporate
+25,Customer 25,Mansoura,Corporate
+26,Customer 26,Mansoura,Small Business
+27,Customer 27,Cairo,Small Business
+28,Customer 28,Zagazig,Small Business
+29,Customer 29,Cairo,Retail
+30,Customer 30,Mansoura,Small Business
+31,Customer 31,Alexandria,Retail
+32,Customer 32,Giza,Retail
+33,Customer 33,Giza,Small Business
+34,Customer 34,Mansoura,Retail
+35,Customer 35,Mansoura,Retail
+36,Customer 36,Alexandria,Corporate
+37,Customer 37,Giza,Retail
+38,Customer 38,Mansoura,Small Business
+39,Customer 39,Cairo,Retail
+40,Customer 40,Zagazig,Small Business
+41,Customer 41,Assiut,Retail
+42,Customer 42,Cairo,Retail
+43,Customer 43,Giza,Corporate
+44,Customer 44,Mansoura,Corporate
+45,Customer 45,Giza,Corporate
+46,Customer 46,Cairo,Retail
+47,Customer 47,Mansoura,Retail
+48,Customer 48,Mansoura,Corporate
+49,Customer 49,Assiut,Corporate
+50,Customer 50,Alexandria,Corporate
+51,Customer 51,Zagazig,Small Business
+52,Customer 52,Assiut,Small Business
+53,Customer 53,Zagazig,Small Business
+54,Customer 54,Mansoura,Retail
+55,Customer 55,Giza,Corporate
+56,Customer 56,Giza,Retail
+57,Customer 57,Tanta,Small Business
+58,Customer 58,Tanta,Retail
+59,Customer 59,Zagazig,Corporate
+60,Customer 60,Cairo,Retail
+61,Customer 61,Tanta,Corporate
+62,Customer 62,Tanta,Small Business
+63,Customer 63,Giza,Retail
+64,Customer 64,Tanta,Retail
+65,Customer 65,Assiut,Retail
+66,Customer 66,Cairo,Small Business
+67,Customer 67,Cairo,Small Business
+68,Customer 68,Assiut,Retail
+69,Customer 69,Mansoura,Retail
+70,Customer 70,Tanta,Retail
+71,Customer 71,Tanta,Small Business
+72,Customer 72,Cairo,Small Business
+73,Customer 73,Cairo,Corporate
+74,Customer 74,Zagazig,Small Business
+75,Customer 75,Tanta,Small Business
+76,Customer 76,Alexandria,Corporate
+77,Customer 77,Giza,Small Business
+78,Customer 78,Zagazig,Corporate
+79,Customer 79,Giza,Corporate
+80,Customer 80,Mansoura,Retail

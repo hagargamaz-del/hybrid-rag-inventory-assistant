@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.cache/
+.pytest_cache/
+*.log
+
+# Generated pipeline outputs
+data/processed/*.jsonl

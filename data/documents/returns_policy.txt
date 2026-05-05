@@ -1,0 +1,21 @@
+Customer Returns and Damaged Goods Policy
+
+Document Type: Returns Policy
+Department: Customer Service and Warehouse Operations
+Version: 1.0
+
+1. Purpose
+This policy defines how returned, damaged, and defective products should be handled.
+
+2. Return Conditions
+Customers may return damaged products within 14 days of delivery.
+Returned products must be inspected by the warehouse team before they are added back to available inventory.
+Defective products should not be returned to sellable stock.
+
+3. Inventory Adjustment
+If a returned item is sellable, the warehouse team may create a positive inventory adjustment.
+If a returned item is damaged or defective, the warehouse team must create a negative adjustment or mark the item as unsellable.
+Manual stock corrections must include a clear note explaining the reason for the adjustment.
+
+4. Reporting
+High return rates should be reviewed monthly by product, supplier, and customer segment.

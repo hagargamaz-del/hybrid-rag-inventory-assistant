@@ -1,0 +1,31 @@
+product_id,product_name,category,supplier_id,unit_cost,unit_price,reorder_level,target_stock
+1,Wireless Mouse,Electronics,7,6.59,11.69,41,171
+2,Mechanical Keyboard,Electronics,6,43.09,80.67,26,123
+3,USB-C Cable,Electronics,6,98.08,145.49,58,167
+4,Laptop Stand,Accessories,2,202.75,349.61,44,120
+5,HDMI Adapter,Electronics,6,140.25,250.92,56,149
+6,Office Chair,Furniture,4,177.62,227.32,69,174
+7,Standing Desk,Furniture,2,246.38,444.95,44,171
+8,Notebook Pack,Stationery,3,116.09,208.05,43,190
+9,Ballpoint Pens,Stationery,2,56.33,80.19,58,143
+10,Printer Paper,Stationery,8,135.86,191.44,44,169
+11,Desk Lamp,Furniture,4,247.43,412.22,63,183
+12,External SSD,Electronics,4,211.5,371.06,22,180
+13,Webcam,Electronics,6,103.29,133.56,33,227
+14,Headset,Electronics,8,101.93,188.01,29,167
+15,Monitor 24 inch,Electronics,5,39.21,68.0,67,249
+16,Monitor 27 inch,Electronics,6,109.97,179.17,34,135
+17,Router,Networking,1,129.83,169.96,27,139
+18,Ethernet Cable,Networking,7,158.72,280.12,58,116
+19,Switch 8-Port,Networking,8,99.27,162.54,53,164
+20,WiFi Extender,Networking,1,242.91,439.55,63,129
+21,Whiteboard,Office Supplies,5,172.02,275.07,69,187
+22,Marker Set,Office Supplies,8,32.33,49.55,20,167
+23,Storage Box,Office Supplies,2,243.11,424.29,60,176
+24,Desk Organizer,Accessories,4,211.21,333.71,29,195
+25,Power Bank,Electronics,1,191.82,307.03,58,182
+26,Tablet Cover,Accessories,6,124.71,164.96,39,161
+27,Phone Charger,Electronics,2,19.19,34.94,25,224
+28,Bluetooth Speaker,Electronics,3,204.93,386.43,28,221
+29,Barcode Scanner,Warehouse,7,236.98,321.66,33,238
+30,Label Printer,Warehouse,5,190.04,322.77,45,195

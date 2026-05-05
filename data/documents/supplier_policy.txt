@@ -1,0 +1,21 @@
+Supplier Performance and Procurement Policy
+
+Document Type: Supplier Policy
+Department: Procurement
+Version: 1.0
+
+1. Purpose
+This document defines how suppliers should be evaluated and how procurement decisions should be made.
+
+2. Supplier Reliability
+Suppliers with a reliability score below 0.80 should be reviewed by the procurement team.
+Suppliers with an average delivery time greater than 10 days should be considered high lead-time suppliers.
+For high lead-time suppliers, reorder requests should be submitted earlier to reduce stockout risk.
+
+3. Procurement Priority
+Products with CRITICAL_STOCKOUT status must be prioritized regardless of supplier category.
+If a product is supplied by a high lead-time supplier, the purchasing team should increase the urgency of the replenishment request.
+If a supplier has both low reliability and long delivery time, the operations team should consider alternative suppliers.
+
+4. Supplier Review
+Supplier performance should be reviewed monthly using total units sold, number of supplied products, delivery time, and reliability score.

@@ -1,0 +1,22 @@
+Warehouse Inventory Movement Standard Operating Procedure
+
+Document Type: Warehouse SOP
+Department: Warehouse Operations
+Version: 1.0
+
+1. Purpose
+This SOP explains how warehouse staff should record inventory movements.
+
+2. Movement Types
+RESTOCK movements increase available inventory.
+SALE movements decrease available inventory after customer orders are completed or shipped.
+ADJUSTMENT movements are used for manual corrections after warehouse counts, damaged goods, returns, or reconciliation issues.
+
+3. Data Entry Rules
+Every inventory movement must include a movement date, product identifier, movement type, quantity, reference identifier, and notes.
+Warehouse staff must not create inventory movements without a valid product identifier.
+Negative inventory should be investigated because it may indicate delayed restocking, incorrect sales recording, or missing warehouse adjustments.
+
+4. Audit Requirements
+Inventory movement records should be reviewed weekly.
+Products with repeated negative adjustments should be investigated by the warehouse manager.

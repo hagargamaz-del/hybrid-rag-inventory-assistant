@@ -1,0 +1,27 @@
+Inventory Replenishment and Stockout Policy
+
+Document Type: Inventory Policy
+Department: Supply Chain and Warehouse Operations
+Version: 1.0
+
+1. Purpose
+This policy defines how inventory levels should be monitored, when products should be reordered, and how stockout risks should be handled.
+
+2. Reorder Rules
+A product must be flagged for reorder when its current stock is less than or equal to its reorder level.
+The reorder quantity should normally be calculated as the difference between the target stock and the current stock.
+If the current stock is negative, the product must be treated as a critical stockout.
+
+3. Stockout Risk Classification
+Products are classified as CRITICAL_STOCKOUT when the current stock is zero or below.
+Products are classified as REORDER_REQUIRED when the current stock is above zero but less than or equal to the reorder level.
+Products are classified as WATCHLIST when the current stock is slightly above the reorder level but demand is increasing.
+
+4. Recommended Action
+For CRITICAL_STOCKOUT products, the purchasing team must create an urgent replenishment request within the same business day.
+For REORDER_REQUIRED products, the purchasing team should create a standard replenishment order within two business days.
+For WATCHLIST products, the inventory team should monitor sales velocity before placing a new order.
+
+5. Business Rule
+The recommended reorder quantity should not be lower than the target stock minus the current stock.
+If supplier lead time is greater than 10 days, the reorder request should be prioritized.

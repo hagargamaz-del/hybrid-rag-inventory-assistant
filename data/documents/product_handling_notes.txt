@@ -1,0 +1,24 @@
+Product Handling and Category Notes
+
+Document Type: Product Handling Notes
+Department: Warehouse Operations
+Version: 1.0
+
+1. Electronics
+Electronics products such as monitors, external SSDs, routers, webcams, and headsets should be stored in dry areas away from moisture.
+High-value electronics should be checked during receiving and before shipment.
+
+2. Furniture
+Furniture products such as office chairs, standing desks, and lamps should be inspected for physical damage before storage.
+Large furniture items may require additional handling time.
+
+3. Stationery and Office Supplies
+Stationery items should be counted in batches during warehouse audits.
+Office supplies with low unit cost may still require reorder monitoring if demand volume is high.
+
+4. Networking Products
+Networking products such as switches, routers, Ethernet cables, and WiFi extenders should be tracked carefully because demand may increase suddenly during office setup projects.
+
+5. Warehouse Equipment
+Barcode scanners and label printers are operationally important products.
+If warehouse equipment reaches reorder level, the issue should be escalated because it may affect warehouse processing efficiency.

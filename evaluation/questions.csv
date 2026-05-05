@@ -1,0 +1,11 @@
+question,expected_mode,expected_sql_source,expected_document_source,required_keywords
+Which products are at stockout risk and what policy explains the reorder action?,hybrid,vw_stockout_risk,inventory_policy.txt,"WiFi Extender;CRITICAL_STOCKOUT;reorder"
+What are the top 5 selling products?,sql,vw_sales_by_product,,"External SSD;units sold;net revenue"
+Which suppliers have long delivery times and what procurement policy should we follow?,hybrid,vw_supplier_performance,supplier_policy.txt,"Supplier 7;delivery;reliability"
+Explain the warehouse movement procedure.,vector,,warehouse_sop.txt,"RESTOCK;SALE;ADJUSTMENT"
+Show monthly revenue trend.,sql,vw_monthly_sales,,"monthly;sales;revenue"
+Give me a business overview.,sql,vw_sales_by_product,,"Number of products;Total revenue;stockout"
+Show products with the lowest current stock.,sql,vw_current_stock,,"WiFi Extender;current stock;reorder level"
+What is the inventory policy for reorder actions?,hybrid,vw_stockout_risk,inventory_policy.txt,"reorder;target stock;current stock"
+How should negative inventory be investigated?,vector,,warehouse_sop.txt,"inventory;warehouse;investigat"
+What should we do with suppliers that have long delivery times?,hybrid,vw_supplier_performance,supplier_policy.txt,"delivery;lead-time;suppliers"

@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: inventory_rag_postgres
+    environment:
+      POSTGRES_DB: inventory_rag
+      POSTGRES_USER: inventory_user
+      POSTGRES_PASSWORD: inventory_password
+    ports:
+      - "5433:5432"
+    volumes:
+      - inventory_rag_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  inventory_rag_postgres_data:

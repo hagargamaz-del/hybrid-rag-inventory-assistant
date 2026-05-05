@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,avg_delivery_days,reliability_score
+1,Supplier 1,India,6,0.71
+2,Supplier 2,China,10,0.76
+3,Supplier 3,India,6,0.89
+4,Supplier 4,USA,5,0.87
+5,Supplier 5,Egypt,3,0.73
+6,Supplier 6,Turkey,3,0.86
+7,Supplier 7,India,16,0.76
+8,Supplier 8,USA,11,0.93
